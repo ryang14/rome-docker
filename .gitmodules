@@ -1,0 +1,6 @@
+[submodule "rome-studio"]
+	path = rome-studio
+	url = https://github.com/ryang14/rome-studio.git
+[submodule "rome"]
+	path = rome
+	url = https://github.com/ryang14/rome.git
